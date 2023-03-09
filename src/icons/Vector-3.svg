@@ -1,0 +1,14 @@
+<svg width="182" height="158" viewBox="0 0 182 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Vector">
+<mask id="path-1-inside-1_3_101" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90.83 157.31C61.1 104.58 30.27 52.45 0 0.0299683H181.62C170.56 19.2 159.51 38.36 148.45 57.53H130.9C133.82 62.59 136.75 67.65 139.69 72.71C123.41 100.92 107.13 129.12 90.84 157.32L90.83 157.31ZM112.15 68.98C99.39 68.95 89.71 68.9 69.87 68.9L90.81 105.57C97.89 93.1699 104.99 81.3 112.14 68.98H112.15ZM54.66 42.8799L126.63 42.86L136.27 25.98L44.86 26.02L54.66 42.8799Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90.83 157.31C61.1 104.58 30.27 52.45 0 0.0299683H181.62C170.56 19.2 159.51 38.36 148.45 57.53H130.9C133.82 62.59 136.75 67.65 139.69 72.71C123.41 100.92 107.13 129.12 90.84 157.32L90.83 157.31ZM112.15 68.98C99.39 68.95 89.71 68.9 69.87 68.9L90.81 105.57C97.89 93.1699 104.99 81.3 112.14 68.98H112.15ZM54.66 42.8799L126.63 42.86L136.27 25.98L44.86 26.02L54.66 42.8799Z" fill="#99FD69" fill-opacity="0.82" stroke="url(#paint0_radial_3_101)" stroke-opacity="0.5" stroke-width="2" mask="url(#path-1-inside-1_3_101)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_3_101" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90.81 78.675) rotate(90) scale(78.645 90.81)">
+<stop offset="0.213542" stop-color="#585858"/>
+<stop offset="1" stop-color="#585858" stop-opacity="0.53"/>
+</radialGradient>
+</defs>
+</svg>

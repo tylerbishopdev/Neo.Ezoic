@@ -1,0 +1,26 @@
+---
+/* 
+  This layout is used in pages that render markdoc content
+  - pages/blog/[slug].astro
+*/
+// Import the global.css file here so that it is included on
+import "../styles/global.css";
+import "@fontsource/inter/variable.css";
+import Footer from "~/components/footer.astro";
+import Header from "~/components/header.astro";
+
+const siteTitle="Neo: Exploring Future Web Content";
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{siteTitle}</title>
+  </head>
+  <body>
+    <Header siteTitle={siteTitle} />
+    <slot />
+  </body>
+</html>
